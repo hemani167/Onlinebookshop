@@ -3,7 +3,7 @@ Java application
 Online Book Store
 This Website is built for following purpose:-
 
-For Selling books online
+For Selling books online|\newline
 Maintaining books selling history
 Adding and managing books
 User Friendly
