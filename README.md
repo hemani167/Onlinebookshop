@@ -1,6 +1,6 @@
-<h2># Onlinebookshop</h2>
-#Java application
-#Online Book Store
+# Onlinebookshop
+**Java application
+ Online Book Store
 This Website is built for following purpose:-<br/>
 
 *For Selling books online<br/>
