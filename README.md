@@ -1,7 +1,7 @@
 # Onlinebookshop
 **Java application
  Online Book Store
-This Website is built for following purpose:-<br/>
+This Website is built for following purpose:-<br/>**
 
 *For Selling books online<br/>
 *Maintaining books selling history<br/>
